@@ -6,28 +6,33 @@ Table of Contents
 4. Usage
 5. Game Rules
 
- Introduction
+ Introduction:
+ 
 Tic-Tac-Toe is a simple, two-player game where the objective is to get three of your marks in a row (vertically, horizontally, or diagonally) on a 3x3 grid. This project is implemented using HTML, CSS, and JavaScript.
 
-Features
+Features:
+
 - Two-player mode
 - Interactive UI
 - Win detection
 - Reset functionality
 
-Technologies Used
+Technologies Used:
+
 - HTML
 - CSS
 - JavaScript
 
-Usage
+Usage:
+
 Open index.html in a web browser.
 Player X starts by clicking on an empty cell in the grid.
 Player O takes their turn by clicking on an empty cell.
 Continue taking turns until one player wins or the game ends in a draw.
 Click the reset button to start a new game.
 
-Game Rules
+Game Rules:
+
 The game is played on a grid that's 3 squares by 3 squares.
 Player X always goes first.
 Players alternate placing X's and O's on the board.
